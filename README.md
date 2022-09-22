@@ -11,6 +11,8 @@ Develop a dashboard that can visualize the bacterial data for each volunteer.
 
 ![Dashboard](https://github.com/nkinsler/Biodiversity/blob/main/Dashboard.png)!
 
+[Website](https://nkinsler.github.io/Biodiversity/)
+
 Customizations performed:
 1. Add image to the jumbotron.
 2. Background color of the body changed to black.
